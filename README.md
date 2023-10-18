@@ -40,3 +40,8 @@ https://www.youtube.com/watch?v=e4bz8RGZ_KI
 ## ✅ Deploy
 
 https://mini-blog-react-xi.vercel.app/
+
+
+<br>
+<br>
+Obs: Como o projeto tinha como intuito apenas praticar React.js, optei por não fazer responsividade no momento. Dessa forma, posso focar em outros projetos React para praticar.
