@@ -45,3 +45,4 @@ https://mini-blog-react-xi.vercel.app/
 <br>
 <br>
 Obs: Como o projeto tinha como intuito apenas praticar React.js, optei por não fazer responsividade no momento. Dessa forma, posso focar em outros projetos React para praticar.
+Obs2: Como usei o FireBase gratuito, algumas funcionalidades pararm de funcionar após o periodo gratuito. No video mostra o funcionamento completo
